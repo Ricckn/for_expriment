@@ -1,3 +1,4 @@
+#実験用ファイル
 import krs
 import json
 import math
